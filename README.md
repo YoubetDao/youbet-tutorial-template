@@ -2,6 +2,17 @@
 
 本仓库是 [According.Work](https://according.work/) 的教程模板，欢迎大家使用。
 
+模板内容为 markdown，可以基于 `mdbook` 工具本地启动服务查看效果
+```bash
+mdbook serve 
+```
+ ![mdbook](https://3bcaf57.webp.li/myblog/mdbook1.png)
+ 
+ `mdbook` 是基于 Rust 的一个使用`Markdown` 创建图书的命令行工具, 需要本地先安装命令, 详情参考官方文档: [mdbook](https://rust-lang.github.io/mdBook/)
+ ```bash
+ cargo install mdbook
+ ``` 
+
 ## 如何参与？
 
 ## 关于 Youbet Study Group
