@@ -2,7 +2,16 @@
 
 本仓库是 [According.Work](https://according.work/) 的教程模板，欢迎大家使用。
 
-模板内容为 markdown，可以基于 `mdbook` 工具本地启动服务查看效果
+## 准备工作
+
+- 更新 readme 文件
+- 更新目录结构
+- settings/pages/build and deployment/source 设置为 github actions - 随后选择 mdbook
+
+## 如何参与？
+
+## 如何运行？
+
 ```bash
 mdbook serve 
 ```
@@ -12,8 +21,6 @@ mdbook serve
  ```bash
  cargo install mdbook
  ``` 
-
-## 如何参与？
 
 ## 关于 Youbet Study Group
 
